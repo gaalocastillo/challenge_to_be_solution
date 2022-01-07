@@ -2,9 +2,10 @@
 Data analysis and classification model proposed as solution of the **Challenge To Be or Not To Be**, presented on the Hands on Machine Learning course 2021-2022 at Université Paris-Saclay.
 
 # Group members
-* Galo Castillo
-* Maria Guaranda
-* Abdurrahman Shahid
+* [Galo Castillo](http://gaalocastillo.github.io/)
+* [María Guaranda](https://www.linkedin.com/in/belen-guaranda/)
+* [Abdurrahman Shahid](https://www.linkedin.com/in/abdurrahman-shahid-1695431a2/)
+
 
 # Presentation of the challenge
 
